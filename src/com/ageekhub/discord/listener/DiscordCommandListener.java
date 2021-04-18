@@ -1,4 +1,4 @@
-package com.ageekhub.com.discord.listener;
+package com.ageekhub.discord.listener;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

@@ -2,7 +2,7 @@ package com.ageekhub.discord;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.ageekhub.com.discord.listener.DiscordCommandListener;
+import com.ageekhub.discord.listener.DiscordCommandListener;
 import com.ageekhub.discord.notifier.DiscordChannelNotifier;
 import discord4j.core.DiscordClient;
 
