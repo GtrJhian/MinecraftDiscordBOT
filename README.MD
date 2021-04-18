@@ -3,9 +3,18 @@
 ### Description
 A simple minecraft and discord integration. Send messages from minecraft server to discord channels and vice versa.
 
+
 **jdk:** 1.8
 
 **current-version:** 1.0.0
+
+### How to use
+| feature | how |
+| --- | --- |
+| notifications | automatic once channel ids are configured |
+| message from mc server to discord | use @discord prefix when writing a message in game, eg: (@discord hello from minecraft server) |
+| message from discord to mc server| mention your bot followed by the message, eg: (@YourMCBot hello from discord server)|
+
 
 ### Build
 
