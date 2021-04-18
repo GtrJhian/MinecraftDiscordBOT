@@ -1,7 +1,7 @@
 # Minecraft Discord Bot
 
 ### Description
-    A simple minecraft and discord integration. Send messages from minecraft server to discord channels and vice versa.
+A simple minecraft and discord integration. Send messages from minecraft server to discord channels and vice versa.
 
 **jdk:** 1.8
 
@@ -32,7 +32,7 @@ discord:
    # see: https://discord.com/developers/applications
    #      https://discord.com/developers/docs/topics/oauth2#bots
    token: vy5fr2qUnf1facxOZM1JTQ==
-   
+   		
    # list of channels to send messages
    # take note of the quotation marks(")
    channels:
