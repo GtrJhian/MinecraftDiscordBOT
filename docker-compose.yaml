@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+   mc-server:
+      image: itzg/minecraft-server:java8
+      ports:
+         - 25565:25565
+      environment:
+         EULA: "true"
+         TYPE: "SPIGOT"
+      volumes:
+         - ./data:/data
+      tty: true
+      stdin_open: true

@@ -1,0 +1,15 @@
+# show debug logs
+debug: true
+
+# Discord Bot Configuration
+discord:
+   # Discord Bot Token
+   token: vy5fr2qUnf1facxOZM1JTQ==
+   
+   # Channel Snowflake IDS, channels to be notified/watched by the bot
+   channels:
+      - "123456789"
+# Discord IDs of the operators who are allowed to execute administrative commands from the bot
+ops:
+   - Sparky014
+   - zljian13
